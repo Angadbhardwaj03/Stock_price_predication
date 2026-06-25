@@ -193,6 +193,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it useful!**
 
-Built with by Angad Bhardwaj(https://github.com/Angadbhardwaj03/)
+Built by Angad Bhardwaj(https://github.com/Angadbhardwaj03/)
 
 </div>
